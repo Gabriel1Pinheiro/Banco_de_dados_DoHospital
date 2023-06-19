@@ -12,7 +12,7 @@ Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramen
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Gabriel1Pinheiro/Banco_de_dados_DoHospital/blob/80f43ddb6808588e48efb9847d26b3489dff4c6b/img/Hospital_parte_1.png)
 
 ## Segunda parte
 
@@ -32,7 +32,7 @@ A internação, obviamente, é vinculada a um paciente – que pode se internar 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Gabriel1Pinheiro/Banco_de_dados_DoHospital/blob/80f43ddb6808588e48efb9847d26b3489dff4c6b/img/Hospital_parte_2.png)
 
 Faça a ligação do diagrama acima ao diagrama desenvolvido na atividade antrior, construindo relacionamentos com entidades relacionadas. E eleve o seu diagrama para que já selecionando os tipos de dados que serão trabalhados e em quais situações. 
 
